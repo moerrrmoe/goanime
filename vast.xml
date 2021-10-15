@@ -30,7 +30,7 @@
             </TrackingEvents>
             <Duration>00:00:16</Duration>
             <MediaFiles>
-              <MediaFile id="5241" delivery="progressive" type="image/gif" bitrate="2000" width="1280" height="720" minBitrate="1500" maxBitrate="2500" scalable="1" maintainAspectRatio="1" codec="H.264">
+              <MediaFile id="5241" delivery="progressive" type="image/gif">
                 <![CDATA[https://i.ibb.co/N9Br4qK/ezgif-com-video-to-gif.gif]]>
               </MediaFile>
             </MediaFiles>
