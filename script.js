@@ -3,7 +3,7 @@
 <script> 
 	window.onload=function onload() {
 					if(geoplugin_countryName()=="Myanmar") {
-									document.getElementById("a").href="";
+									document.getElementById("a").href="#";
 					}
 	}
 </script>
