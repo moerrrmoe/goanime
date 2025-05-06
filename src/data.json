@@ -1,0 +1,118 @@
+{
+    "website":"GOA",
+    "uploaded":0,
+    "data":[
+  {
+              "title": "Anime Title",
+              "id": 1,
+              "review": "This is a placeholder review for a random anime.",
+              "poster": "https://placehold.co/600x900",
+              "genre": ["Action","Romance","Harem"],
+              "year": 2025,
+              "studio": "Studio Ghibi",
+              "episodes": {
+                  "1" : "#",
+                  "2" : "#",
+                  "3" : "#"
+              }
+          },
+          {
+              "title": "Anime Title",
+              "id": 2,
+              "review": "This is a placeholder review for a random anime.",
+              "poster": "https://placehold.co/600x900",
+              "genre": ["Action","Romance","Harem"],
+              "year": 2025,
+              "studio": "Studio Ghibi",
+              "episodes": {
+                  "1" : "#",
+                  "2" : "#",
+                  "3" : "#"
+              }
+          },
+          {
+              "title": "Anime Title",
+              "id": 3,
+              "review": "This is a placeholder review for a random anime.",
+              "poster": "https://placehold.co/600x900",
+              "genre": ["Action","Romance","Harem"],
+              "year": 2025,
+              "studio": "Studio Ghibi",
+              "episodes": {
+                  "1" : "#",
+                  "2" : "#",
+                  "3" : "#"
+              }
+          },
+          {
+            "title": "Anime Title",
+            "id": 4,
+            "review": "This is a placeholder review for a random anime.",
+            "poster": "https://placehold.co/600x900",
+            "genre": ["Action","Romance","Harem"],
+            "year": 2025,
+            "studio": "Studio Ghibi",
+            "episodes": {
+                "1" : "#",
+                "2" : "#",
+                "3" : "#"
+            }
+        },
+        {
+            "title": "Anime Title",
+            "id": 5,
+            "review": "This is a placeholder review for a random anime.",
+            "poster": "https://placehold.co/600x900",
+            "genre": ["Action","Romance","Harem"],
+            "year": 2025,
+            "studio": "Studio Ghibi",
+            "episodes": {
+                "1" : "#",
+                "2" : "#",
+                "3" : "#"
+            }
+        },
+        {
+            "title": "Anime Title",
+            "id": 6,
+            "review": "This is a placeholder review for a random anime.",
+            "poster": "https://placehold.co/600x900",
+            "genre": ["Action","Romance","Harem"],
+            "year": 2025,
+            "studio": "Studio Ghibi",
+            "episodes": {
+                "1" : "#",
+                "2" : "#",
+                "3" : "#"
+            }
+        },
+        {
+            "title": "Anime Title",
+            "id": 7,
+            "review": "This is a placeholder review for a random anime.",
+            "poster": "https://placehold.co/600x900",
+            "genre": ["Action","Romance","Harem"],
+            "year": 2025,
+            "studio": "Studio Ghibi",
+            "episodes": {
+                "1" : "#",
+                "2" : "#",
+                "3" : "#"
+            }
+        },
+        {
+            "title": "Anime Title",
+            "id": 8,
+            "review": "This is a placeholder review for a random anime.",
+            "poster": "https://placehold.co/600x900",
+            "genre": ["Action","Romance","Harem"],
+            "year": 2025,
+            "studio": "Studio Ghibi",
+            "episodes": {
+                "1" : "#",
+                "2" : "#",
+                "3" : "#"
+            }
+        }
+  ]
+}
